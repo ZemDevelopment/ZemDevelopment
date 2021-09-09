@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Zem. This is the development account for @Zemyoro
+- 👋 Hi, I'm Zem. This is the development account for [@Zemyoro](https://github.com/Zemyoro)
 - 📫 How to reach me - (Being added soon)
